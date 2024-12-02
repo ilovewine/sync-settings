@@ -1,0 +1,9 @@
+builtin:
+  disabled:
+    - ms-vscode.js-debug-companion
+disabled: []
+enabled:
+  - id: Shan.code-settings-sync
+    uuid: e337c67b-55c2-4fef-8949-eb260e7fb7fd
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
